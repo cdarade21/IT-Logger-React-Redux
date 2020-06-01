@@ -1,3 +1,13 @@
+Installation Commands:
+
+npm i -D json-server concurrently
+npm i materialize-css
+npm i moment react-moment
+npm i redux react-redux redux-thunk redux-devtools-extension
+
+Execution Command:
+npm run dev
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
